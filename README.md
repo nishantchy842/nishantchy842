@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Threejs**
 
-- 👨‍💻 All of my projects are available at [https://portfolioaksen.netlify.app/](https://portfolioaksen.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolioaksen.netlify.app/](https://nishantchaudhari.netlify.app/)
 
 - 💬 Ask me about **react, node, javascript, c, c++, c#**
 
