@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [DigiTec_ecomerce](https://github.com/nishantchy842/DigiTec_Ecommerce.git)
+- 🔭 I’m currently working on <strong>DalloTech pvt ltd</strong>
 
 - 🌱 I’m currently learning **TypeScript, Threejs**
 
