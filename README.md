@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on <strong>DalloTech pvt ltd</strong>
+- 🔭 I’m currently available to work 
 
 - 🌱 I’m currently learning **TypeScript, Threejs**
 
