@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently available to work 
+- 🔭 I’m currently working at Ramailo Technology
 
 - 🌱 I’m currently learning **TypeScript, Threejs**
 
